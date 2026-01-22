@@ -270,22 +270,9 @@ A **true cross-platform version using CEF** is planned as a **separate project**
 
 ---
 
-## Inspiration
+## Made by:
+ * BingBongSong
 
-Inspired by the browser created by **Face-hh** in the video:
-
-*  *I built my own Browser*
-  [https://www.youtube.com/watch?v=37ISfJ2NSXQ](https://www.youtube.com/watch?v=37ISfJ2NSXQ)
-
-Also check his:
-
-* GitHub: [https://github.com/face-hh](https://github.com/face-hh)
-* YouTube: [https://www.youtube.com/FaceDevStuff](https://www.youtube.com/FaceDevStuff)
-
----
-
-## LICENSE
-
-**MIT License**
+## Warning: All others are fakes, this is the only SpeedyTurtle Browser.
 
 ---
